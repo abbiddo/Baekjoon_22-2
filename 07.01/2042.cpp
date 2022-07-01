@@ -23,10 +23,8 @@ ll make_tree(int Node, int start, int end) {
 }
 
 void update(int Node, int start, int end, int index, ll diff) {
-	//cout << Tree[Node] << "---전\n";
 	if (index<start || index>end) return;
 	Tree[Node] += diff;
-	//cout << Tree[Node] << "---후\n";
 
 	if (start != end) {
 		int mid = (start + end) / 2;
