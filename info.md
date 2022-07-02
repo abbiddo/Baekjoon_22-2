@@ -9,6 +9,8 @@
     <summary>S (study) : 공부</summary>
 
 * 10868 : 최솟값 / 세그먼트 트리 <br>
+* 10999 구간 합 구하기 2 / lazy_update <br>
+* 14428 수열과 쿼리16 / 인덱스 값 저장 <br>
     
 </details>
     
@@ -41,5 +43,6 @@
     <summary>H (hard) : 어려웠던 거</summary>
     
 * 10868 : 최솟값 / 세그먼트 트리 <br>
+* 10999 구간 합 구하기 2 <br>
   
 </details>
