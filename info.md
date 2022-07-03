@@ -27,6 +27,7 @@
 <details>
     <summary>M (memory) : 기록, 기억</summary>
   
+* 18436 : 수열과 쿼리37 / 짝홀수 <br>
 </details>
     
 <details>
