@@ -28,6 +28,8 @@
     <summary>M (memory) : 기록, 기억</summary>
   
 * 18436 : 수열과 쿼리37 / 짝홀수 <br>
+* 2263 : 트리의 순회<br>
+  
 </details>
     
 <details>
