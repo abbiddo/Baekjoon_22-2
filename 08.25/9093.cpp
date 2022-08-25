@@ -10,7 +10,7 @@
 using namespace std;
 
 int main() {
-	nt n;		cin >> n;
+	int n;		cin >> n;
 	cin.ignore();
 
 	for (int k = 0; k < n; k++) {
